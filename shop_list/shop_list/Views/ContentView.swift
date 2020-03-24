@@ -10,9 +10,12 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        //ShopList(availableItems: <#[ShopItem]#>)
+        Text("sfs")
     }
 }
+
+
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
